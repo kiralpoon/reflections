@@ -9,3 +9,7 @@ ANSWERED
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 LAZY to answer
+
+How do the diagrams help you visualize the branch structure?
+
+helpful but lazy to draw it 
